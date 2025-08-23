@@ -25,11 +25,15 @@ public class Variables {
         int year = 2025 ;
         int quantity = 50 ;
         System.out.println(age);
-        System.out.println(year);
+        System.out.println("this is year "+ year );
         System.out.println(quantity);
 
         double gpa = 3.5 ;
+        double temperature = 98.6 ;
+        double price = 19.99 ;
         System.out.println(gpa);
+        System.out.println(temperature);
+        System.out.println(price);
 
       
 
