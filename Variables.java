@@ -1,3 +1,5 @@
+
+
 public class Variables {
     public static void main(String[] args) {
 
@@ -35,8 +37,32 @@ public class Variables {
         System.out.println(temperature);
         System.out.println(price);
 
-      
+        char grade = 'A' ;
+        char letter = 'B' ;
+        char symbol = '@' ;
+        System.out.println(grade);
+        System.out.println(letter);
+        System.out.println(symbol);
+        
+        boolean isMale = true ;
+        boolean isFemale = false ;
+        System.out.println(isMale);
+        System.out.println(isFemale);
 
+        String name = "Hajisharifi" ;
+        String country = "Canada" ;
+        String city = "Toronto" ;
+        System.out.println(name);
+        System.out.println(country);
+        System.out.println(city);
+        
+        // Constants = a variable whose value cannot be changed
+        // final = keyword used to declare constant variables
+        final double PI = 3.14 ;
+        System.out.println(PI);
+        // PI = 3.14159 ; // error cannot change the value of PI
+
+        
 
     }
     
