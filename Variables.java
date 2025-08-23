@@ -15,7 +15,7 @@ public class Variables {
         // int          string
         // double       array
         // boolean      object
-        // char         class
+        // char         
 
         // 2 Steps to create a variable
         // ----------------------------
@@ -62,7 +62,7 @@ public class Variables {
         System.out.println(PI);
         // PI = 3.14159 ; // error cannot change the value of PI
 
-        
+         
 
     }
     
