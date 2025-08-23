@@ -22,7 +22,14 @@ public class Variables {
 
 
         int age = 20 ;
+        int year = 2025 ;
+        int quantity = 50 ;
         System.out.println(age);
+        System.out.println(year);
+        System.out.println(quantity);
+
+        double gpa = 3.5 ;
+        System.out.println(gpa);
 
       
 
