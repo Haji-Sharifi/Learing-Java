@@ -12,5 +12,10 @@ public class MyFirstHelloWorld {
         System.out.println("Hello, World!");
         System.out.println("this is my first java program");
         System.out.println("I am learning java");
+        System.out.println("Java is fun!");
+
+        // sout is a shortcut for System.out.println
+        // End of the program
+    
     }
 }
